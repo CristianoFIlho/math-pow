@@ -10,32 +10,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Facilidade e Diversão',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Transforme a matemática em uma brincadeira! Nossa aplicação é fácil de usar e super divertida.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Simples e intuitivo',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Seu filho aprende matemática de forma simples e intuitiva com nossa aplicação educacional.Diga adeus à frustração! Aprender matemática de forma simples e ludica.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Tornando sua aula interativa',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Descomplicamos a matemática para que você possa se concentrar no ensino.Torne suas aulas de matemática interativas
       </>
     ),
   },

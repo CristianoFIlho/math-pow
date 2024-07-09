@@ -4,54 +4,13 @@ sidebar_position: 2
 
 # Diagrama de Classes 📉
 
-Documents are **groups of pages** connected through:
+**Classes:**
 
-- a **sidebar**
-- **previous/next navigation**
-- **versioning**
+- Representam entidades no sistema e são descritas com um retângulo dividido em três partes: o nome da classe, atributos e métodos.
+- **Nome da Classe:** Sempre escrito na parte superior do retângulo, com a primeira letra maiúscula.
+- **Atributos:** Listados na parte central, representando as propriedades ou características da classe.
+- **Métodos:** Listados na parte inferior, representando as operações ou comportamentos que a classe pode realizar.
 
-## Create your first Doc
 
-Create a Markdown file at `docs/hello.md`:
+![UseCase_TCC-1](https://github.com/walissonsilva/quiz-app-kotlin/assets/54041918/4d0ab398-6bbd-417d-bf58-9fad8ba1b103)
 
-```md title="docs/hello.md"
-# Hello
-
-This is my **first Docusaurus document**!
-```
-
-A new document is now available at [http://localhost:3000/docs/hello](http://localhost:3000/docs/hello).
-
-## Configure the Sidebar
-
-Docusaurus automatically **creates a sidebar** from the `docs` folder.
-
-Add metadata to customize the sidebar label and position:
-
-```md title="docs/hello.md" {1-4}
----
-sidebar_label: 'Hi!'
-sidebar_position: 3
----
-
-# Hello
-
-This is my **first Docusaurus document**!
-```
-
-It is also possible to create your sidebar explicitly in `sidebars.js`:
-
-```js title="sidebars.js"
-export default {
-  tutorialSidebar: [
-    'intro',
-    // highlight-next-line
-    'hello',
-    {
-      type: 'category',
-      label: 'Tutorial',
-      items: ['tutorial-basics/create-a-document'],
-    },
-  ],
-};
-```

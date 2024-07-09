@@ -25,8 +25,8 @@ const config: Config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'pt',
+    locales: ['pt'],
   },
 
   presets: [
@@ -68,7 +68,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Sobre o projeto',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
@@ -82,28 +82,24 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Doocumentação',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Sobre o Projeto',
               to: '/docs/intro',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Comunidade',
           items: [
             {
-              label: 'Stack Overflow',
+              label: 'GitHub',
               href: 'https://stackoverflow.com/questions/tagged/docusaurus',
             },
             {
               label: 'Discord',
               href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
             },
           ],
         },
@@ -121,7 +117,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Polvo π, Inc. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

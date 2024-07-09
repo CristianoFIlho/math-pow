@@ -4,52 +4,41 @@ sidebar_position: 1
 
 # Faça um pull request ou reporte um problema na aplicação 🪲
 
-Docusaurus can manage multiple versions of your docs.
+### Passo a Passo para Fazer um Pull Request ou Reportar um Problema
 
-## Create a docs version
+### Fazer um Pull Request
 
-Release a version 1.0 of your project:
+1. **Fork o Repositório**:
+    - Vá até o repositório no GitHub.
+    - Clique em "Fork" no canto superior direito para criar uma cópia no seu perfil.
+2. **Clone o Repositório Forked**:
+    - No seu terminal, clone o repositório: `git clone https://github.com/seu-usuario/nome-do-repositorio.git`.
+3. **Crie uma Nova Branch**:
+    - Navegue até o diretório do projeto: `cd nome-do-repositorio`.
+    - Crie uma nova branch para sua alteração: `git checkout -b minha-alteracao`.
+4. **Faça Suas Alterações**:
+    - Faça as modificações necessárias no código.
+5. **Comite Suas Alterações**:
+    - Adicione os arquivos modificados: `git add .`.
+    - Faça o commit das alterações: `git commit -m "Descrição das alterações"`.
+6. **Envie para o Repositório Forked**:
+    - Envie as alterações para o seu repositório forked: `git push origin minha-alteracao`.
+7. **Abra um Pull Request**:
+    - No GitHub, vá até o seu repositório forked.
+    - Clique no botão "Compare & pull request".
+    - Preencha a descrição do PR e envie.
 
-```bash
-npm run docusaurus docs:version 1.0
-```
+### Reportar um Problema
 
-The `docs` folder is copied into `versioned_docs/version-1.0` and `versions.json` is created.
+1. **Acesse o Repositório**:
+    - Vá até a página do repositório no GitHub.
+2. **Abra a Aba de Issues**:
+    - Clique na aba "Issues" localizada na parte superior da página.
+3. **Crie uma Nova Issue**:
+    - Clique no botão "New issue".
+    - Preencha o título e a descrição detalhada do problema.
+    - Adicione imagens ou logs, se necessário.
+4. **Envie a Issue**:
+    - Clique em "Submit new issue" para enviar.
 
-Your docs now have 2 versions:
-
-- `1.0` at `http://localhost:3000/docs/` for the version 1.0 docs
-- `current` at `http://localhost:3000/docs/next/` for the **upcoming, unreleased docs**
-
-## Add a Version Dropdown
-
-To navigate seamlessly across versions, add a version dropdown.
-
-Modify the `docusaurus.config.js` file:
-
-```js title="docusaurus.config.js"
-export default {
-  themeConfig: {
-    navbar: {
-      items: [
-        // highlight-start
-        {
-          type: 'docsVersionDropdown',
-        },
-        // highlight-end
-      ],
-    },
-  },
-};
-```
-
-The docs version dropdown appears in your navbar:
-
-![Docs Version Dropdown](./img/docsVersionDropdown.png)
-
-## Update an existing version
-
-It is possible to edit versioned docs in their respective folder:
-
-- `versioned_docs/version-1.0/hello.md` updates `http://localhost:3000/docs/hello`
-- `docs/hello.md` updates `http://localhost:3000/docs/next/hello`
+Seguindo esses passos, você poderá contribuir com melhorias e ajudar a identificar problemas na aplicação.

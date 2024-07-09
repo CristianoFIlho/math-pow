@@ -71,7 +71,7 @@ const config: Config = {
           label: 'Sobre o projeto',
         },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/CristianoFIlho/polvopi-app-kotlin',
           label: 'GitHub',
           position: 'right',
         },
@@ -94,7 +94,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              href: 'https://github.com/CristianoFIlho/polvopi-app-kotlin',
             },
             {
               label: 'Discord',
@@ -103,11 +103,11 @@ const config: Config = {
           ],
         },
         {
-          title: 'More',
+          title: 'Monografia',
           items: [
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'A GAMIFICAÇÃO COMO ESTRATÉGIA PARA O ENSINO DE MATEMÁTICA BÁSICA PARA ALUNOS DO ENSINOFUNDAMENTAL I',
+              href: 'https://www.overleaf.com/download/project/64f5da46c11ab31449379219/build/190955533d4-6d70838bc41d8233/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-n2d-b-f-7mtd&enable_pdf_caching=true&popupDownload=true',
             },
           ],
         },

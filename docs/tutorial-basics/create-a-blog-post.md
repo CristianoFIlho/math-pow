@@ -4,31 +4,53 @@ sidebar_position: 3
 
 # Requisitos funcionais e não funcionais da aplicação 📑
 
-Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
+### Requisitos Funcionais (RF)
 
-## Create your first Post
+- **RF01: Persistência de Dados**
+    - Detalhar que dados serão persistidos (progresso do usuário, avatares comprados, histórico de sessões, etc.).
+- **RF02: Autenticação**
+    - Especificar os métodos de autenticação permitidos (Gmail, Facebook, etc.).
+- **RF04 e RF05: Recuperação e Atualização de Senha**
+    - Incluir um tempo de expiração para o token de recuperação de senha.
+- **RF09 a RF12: Loja e Avatares**
+    - Detalhar como os pontos são acumulados e utilizados para compras.
+- **RF13 a RF19: Sessões e Jogos**
+    - Especificar o método de avaliação e feedback das questões.
+    - Definir o que constitui uma "sessão" e um "jogo".
 
-Create a file at `blog/2021-02-28-greetings.md`:
+### Requisitos Não Funcionais (RNF)
 
-```md title="blog/2021-02-28-greetings.md"
----
-slug: greetings
-title: Greetings!
-authors:
-  - name: Joel Marcey
-    title: Co-creator of Docusaurus 1
-    url: https://github.com/JoelMarcey
-    image_url: https://github.com/JoelMarcey.png
-  - name: Sébastien Lorber
-    title: Docusaurus maintainer
-    url: https://sebastienlorber.com
-    image_url: https://github.com/slorber.png
-tags: [greetings]
----
+- **RNF01: Design Lúdico e Colorido**
+    - Incluir diretrizes específicas de design e exemplos de paletas de cores amigáveis.
+- **RNF02: Compatibilidade Multiplataforma**
+    - Definir requisitos mínimos de hardware e sistema operacional.
+- **RNF03: Performance Responsiva**
+    - Especificar tempos de resposta esperados para ações comuns no aplicativo.
+- **RNF04: Segurança**
+    - Detalhar protocolos e práticas de segurança, como criptografia de dados e proteção contra ataques.
+- **RNF05: Manutenção**
+    - Incluir práticas de versionamento e documentação de código.
+- **RNF06: Disponibilidade**
+    - Definir estratégias de redundância e recuperação de desastres.
+- **RNF07: Privacidade**
+    - Explicar como os dados serão coletados, armazenados e utilizados de acordo com regulamentações de privacidade.
 
-Congratulations, you have made your first post!
+### Regras de Negócio (RN)
 
-Feel free to play around and edit this post as much as you like.
-```
+- **RN04: Pontuação**
+    - Definir claramente o valor de X pontos por questão correta.
+- **RN06: Pontuação Bônus**
+    - Especificar o valor do bônus e os critérios para obtenção.
+- **RN07: Progressão de Questões**
+    - Definir como as questões são selecionadas e apresentadas ao usuário.
+- **RN09: Pontuação Mínima**
+    - Determinar o valor mínimo de pontos necessário para avançar e como isso é calculado.
+- **RN10: Uso de Pontos na Loja**
+    - Detalhar o processo de resgate e compra de itens.
 
-A new blog post is now available at [http://localhost:3000/blog/greetings](http://localhost:3000/blog/greetings).
+### Adicionais
+
+- **Controle de Versão e Deploy**
+    - Inclua requisitos para controle de versão e procedimentos de deploy.
+- **Testes**
+    - Defina critérios para testes de unidade, integração e aceitação.

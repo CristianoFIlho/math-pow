@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Manage Docs Versions
+# Faça um pull request ou reporte um problema na aplicação 🪲
 
 Docusaurus can manage multiple versions of your docs.
 

@@ -4,44 +4,26 @@ sidebar_position: 1
 
 # Resumo do Projeto
 
-Let's discover **Docusaurus in less than 5 minutes**.
+### TCC: A Gamificação como Estratégia para o Ensino de Matemática Básica no Ensino Fundamental I
 
-## Getting Started
+### Contexto e Objetivo
 
-Get started by **creating a new site**.
+Este trabalho, orientado por André Ricardo Magalhães na Universidade Católica do Salvador, busca mostrar como a gamificação pode melhorar o ensino de matemática para alunos do Ensino Fundamental I. A ideia é usar aplicativos de jogos educativos e metodologias ativas para tornar o aprendizado mais envolvente e participativo. O objetivo é ajudar a resolver o problema da dificuldade que muitos alunos têm com matemática.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### Fundamentação
 
-### What you'll need
+Foram consultados vários autores para embasar o estudo, como Creswell, Furlan, Nóvoa, Almeida, Josso, Bueno, Lima, Passegi, Pimenta, Pineau, Souza, Kleiman, Freire, Soares, Moran, Molica e Street. Todos eles contribuíram para entender como as novas práticas docentes podem ser implementadas com sucesso.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### Relevância
 
-## Generate a new site
+A dificuldade de ensinar matemática com métodos tradicionais é um problema comum nas escolas. Uma pesquisa internacional revelou que os brasileiros passam cerca de nove horas e meia por dia usando celulares e outros dispositivos eletrônicos, mostrando um alto nível de conectividade digital no país. Isso indica que usar tecnologia e aplicativos educativos pode ser uma maneira eficaz de melhorar o ensino de matemática.
 
-Generate a new Docusaurus site using the **classic template**.
+### Implementação de Aplicação Mobile
 
-The classic template will automatically be added to your project after you run the command:
+Para apoiar os professores no ensino de matemática básica, uma aplicação mobile pode ser desenvolvida. Este aplicativo incluiria:
 
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- **Jogos Educativos**: Jogos que ensinam conceitos matemáticos de forma divertida e interativa.
+- **Feedback Imediato**: Ferramentas que fornecem feedback instantâneo aos alunos, ajudando-os a entender onde erraram e como melhorar.
+- **Progressão Personalizada**: O aplicativo pode ajustar o nível de dificuldade com base no desempenho de cada aluno.
+- **Recursos Didáticos**: Materiais de apoio e dicas pedagógicas para os professores utilizarem em sala de aula.
+- **Análises e Relatórios**: Ferramentas que permitem aos professores acompanhar o progresso dos alunos e identificar áreas que precisam de mais atenção.

@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Facilidade e Diversão',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/congratulates.svg').default,
     description: (
       <>
         Transforme a matemática em uma brincadeira! Nossa aplicação é fácil de usar e super divertida.
@@ -20,7 +20,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Simples e intuitivo',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/simpleAndIntuitive.svg').default,
     description: (
       <>
         Seu filho aprende matemática de forma simples e intuitiva com nossa aplicação educacional.Diga adeus à frustração! Aprender matemática de forma simples e ludica.
@@ -29,7 +29,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Tornando sua aula interativa',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/teacherClass.svg').default,
     description: (
       <>
         Descomplicamos a matemática para que você possa se concentrar no ensino.Torne suas aulas de matemática interativas

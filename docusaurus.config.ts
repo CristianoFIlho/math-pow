@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Polvo π',
+  title: 'Math Pow',
   tagline: 'Contando e aprendendo com você!',
   favicon: 'img/favicon.ico',
 
@@ -58,7 +58,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Polvo π',
+      title: 'Math Pow',
       logo: {
         alt: 'My Site Logo',
         src: 'img/apple-touch-icon.png',

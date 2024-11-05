@@ -1,35 +1,30 @@
-/* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #222872;
-  --ifm-color-primary-dark: #1f2465;
-  --ifm-color-primary-darker: #1c2058;
-  --ifm-color-primary-darkest: #181b4b;
-  --ifm-color-primary-light: #4b50a3;
-  --ifm-color-primary-lighter: #5a60b5;
-  --ifm-color-primary-lightest: #6a70c7;
+  --ifm-color-primary: #757FB2;
+  --ifm-color-primary-dark: #6b72a1;
+  --ifm-color-primary-darker: #61668f;
+  --ifm-color-primary-darkest: #575a7d;
+  --ifm-color-primary-light: #8189c3;
+  --ifm-color-primary-lighter: #8b93d4;
+  --ifm-color-primary-lightest: #959de5;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-
   /* Custom gradient */
-  --custom-gradient: linear-gradient(45deg, #222872, #5768ad);
+  --custom-gradient: linear-gradient(45deg, #757FB2, #8b93d4);
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #ffffff;
-  --ifm-color-primary-dark: #1f2465;
-  --ifm-color-primary-darker: #1c2058;
-  --ifm-color-primary-darkest: #181b4b;
-  --ifm-color-primary-light: #4b50a3;
-  --ifm-color-primary-lighter: #5a60b5;
-  --ifm-color-primary-lightest: #6a70c7;
+  --ifm-color-primary: #757FB2;
+  --ifm-color-primary-dark: #6b72a1;
+  --ifm-color-primary-darker: #61668f;
+  --ifm-color-primary-darkest: #575a7d;
+  --ifm-color-primary-light: #8189c3;
+  --ifm-color-primary-lighter: #8b93d4;
+  --ifm-color-primary-lightest: #959de5;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-
   /* Custom gradient for dark mode */
-  --custom-gradient: linear-gradient(45deg, #222872, #5768ad);
+  --custom-gradient: linear-gradient(45deg, #757FB2, #8b93d4);
 }
 
-/* Applying the gradient to a class */
-.gradient-background {
-  background: var(--custom-gradient);
+.footer {
+  background-color: #757FB2;
 }

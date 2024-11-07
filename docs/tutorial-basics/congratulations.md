@@ -27,7 +27,7 @@ https://github.com/CristianoFIlho/nextjs-13-firebase-starter
 O projeto polvopi-app-kotlin é um aplicativo desenvolvido em Kotlin para a plataforma Android. O objetivo do aplicativo parece ser a interação com um dispositivo chamado "Polvo Pi". O repositório inclui vários diretórios e arquivos relacionados à configuração do projeto, como código fonte, recursos gráficos, e arquivos de configuração do Gradle. O README e outros documentos do projeto devem fornecer mais detalhes específicos sobre o funcionamento e os objetivos do aplicativo.
 
 ####    Link do repositório: ⤵️
-https://github.com/CristianoFIlho/polvopi-app-kotlin
+https://github.com/CristianoFIlho/math-pow
 
 ## Repositório da documentação e landing page do projeto
 

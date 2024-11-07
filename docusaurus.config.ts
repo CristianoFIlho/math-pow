@@ -71,7 +71,7 @@ const config: Config = {
           label: 'Sobre o projeto',
         },
         {
-          href: 'https://github.com/CristianoFIlho/polvopi-app-kotlin',
+          href: 'https://github.com/CristianoFIlho/math-pow',
           label: 'GitHub',
           position: 'right',
         },
@@ -94,11 +94,11 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/CristianoFIlho/polvopi-app-kotlin',
+              href: 'https://github.com/CristianoFIlho/math-pow',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Apresentação',
+              href: 'https://www.figma.com/proto/oUGTnCPotnnYjf6HXurQPK/APRESENTA%C3%87%C3%83O-(Copy)?node-id=0-1&t=rSr2GMXH6Xazxij9-1',
             },
           ],
         },
@@ -107,7 +107,7 @@ const config: Config = {
           items: [
             {
               label: 'A GAMIFICAÇÃO COMO ESTRATÉGIA PARA O ENSINO DE MATEMÁTICA BÁSICA PARA ALUNOS DO ENSINOFUNDAMENTAL I',
-              href: 'https://www.overleaf.com/download/project/64f5da46c11ab31449379219/build/190955533d4-6d70838bc41d8233/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-n2d-b-f-7mtd&enable_pdf_caching=true&popupDownload=true',
+              href: 'https://www.overleaf.com/read/byqjmzvzgcnd#ac4abd',
             },
           ],
         },

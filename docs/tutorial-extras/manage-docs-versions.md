@@ -2,43 +2,46 @@
 sidebar_position: 1
 ---
 
-# Faça um pull request ou reporte um problema na aplicação 🪲
+# Ajude respondendo os nossos formulários: 📊
 
-### Passo a Passo para Fazer um Pull Request ou Reportar um Problema
+### Como Participar dos Testes da Aplicação com Crianças
 
-### Fazer um Pull Request
+### Para Pais e Professores
 
-1. **Fork o Repositório**:
-    - Vá até o repositório no GitHub.
-    - Clique em "Fork" no canto superior direito para criar uma cópia no seu perfil.
-2. **Clone o Repositório Forked**:
-    - No seu terminal, clone o repositório: `git clone https://github.com/seu-usuario/nome-do-repositorio.git`.
-3. **Crie uma Nova Branch**:
-    - Navegue até o diretório do projeto: `cd nome-do-repositorio`.
-    - Crie uma nova branch para sua alteração: `git checkout -b minha-alteracao`.
-4. **Faça Suas Alterações**:
-    - Faça as modificações necessárias no código.
-5. **Comite Suas Alterações**:
-    - Adicione os arquivos modificados: `git add .`.
-    - Faça o commit das alterações: `git commit -m "Descrição das alterações"`.
-6. **Envie para o Repositório Forked**:
-    - Envie as alterações para o seu repositório forked: `git push origin minha-alteracao`.
-7. **Abra um Pull Request**:
-    - No GitHub, vá até o seu repositório forked.
-    - Clique no botão "Compare & pull request".
-    - Preencha a descrição do PR e envie.
+1. **Acesse Nossa Pesquisa**:
+    - Visite o link do formulário de teste
+    - Use suas credenciais escolares ou pessoais para acessar
+    
+2. **Prepare o Ambiente de Teste**:
+    - Escolha um momento tranquilo do dia
+    - Garanta que a criança esteja disposta a participar
+    - Tenha um dispositivo com internet disponível
 
-### Reportar um Problema
+3. **Durante o Teste**:
+    - Acompanhe a criança durante a utilização
+    - Observe suas reações e dificuldades
+    - Faça anotações sobre pontos importantes
+    - Não interfira nas escolhas da criança
 
-1. **Acesse o Repositório**:
-    - Vá até a página do repositório no GitHub.
-2. **Abra a Aba de Issues**:
-    - Clique na aba "Issues" localizada na parte superior da página.
-3. **Crie uma Nova Issue**:
-    - Clique no botão "New issue".
-    - Preencha o título e a descrição detalhada do problema.
-    - Adicione imagens ou logs, se necessário.
-4. **Envie a Issue**:
-    - Clique em "Submit new issue" para enviar.
+4. **Compartilhe os Resultados**:
+    - Preencha o formulário de feedback
+    - Inclua suas observações detalhadas
+    - Compartilhe sugestões de melhorias
+    - Relate qualquer dificuldade encontrada
 
-Seguindo esses passos, você poderá contribuir com melhorias e ajudar a identificar problemas na aplicação.
+### Reportar Problemas ou Sugestões
+
+1. **Acesse Nossa Página de Feedback**:
+    - Use o link fornecido pela escola/instituição
+    
+2. **Envie Seu Relato**:
+    - Descreva em detalhes a experiência
+    - Adicione fotos ou vídeos, se autorizado
+    - Sugira melhorias baseadas na experiência
+
+3. **Participe da Comunidade**:
+    - Entre em nosso grupo de testadores
+    - Compartilhe experiências com outros pais/professores
+    - Acompanhe as atualizações do projeto
+
+Sua participação é fundamental para melhorarmos a experiência das crianças com nossa aplicação! aplicação.

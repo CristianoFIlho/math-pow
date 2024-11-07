@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Math Pow',
+  title: 'Math.Pow',
   tagline: 'Contando e aprendendo com você!',
   favicon: 'img/favicon.ico',
 
@@ -58,7 +58,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Math Pow',
+      title: 'Math.Pow',
       logo: {
         alt: 'My Site Logo',
         src: 'img/apple-touch-icon.png',
@@ -112,7 +112,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Polvo π, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Math.Pow, Inc. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

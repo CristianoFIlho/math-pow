@@ -22,6 +22,12 @@ function HomepageHeader() {
             to="/docs/intro">
             Clique e saiba mais! - 🐙
           </Link>
+                   <Link
+            className="button button--secondary button--lg"
+            to="/docs/another-page"
+            style={{ marginLeft: '10px' }}>
+            Experimente agora! - 🤳
+          </Link>
         </div>
       </div>
     </header>

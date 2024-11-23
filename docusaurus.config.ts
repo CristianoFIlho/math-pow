@@ -106,7 +106,7 @@ const config: Config = {
           title: 'Monografia',
           items: [
             {
-              label: 'A GAMIFICAÇÃO COMO ESTRATÉGIA PARA O ENSINO DE MATEMÁTICA BÁSICA PARA ALUNOS DO ENSINOFUNDAMENTAL I',
+              label: 'A GAMIFICAÇÃO COMO ESTRATÉGIA PARA O ENSINO DE MATEMÁTICA BÁSICA PARA ALUNOS DO ENSINO FUNDAMENTAL I',
               href: 'https://www.overleaf.com/read/byqjmzvzgcnd#ac4abd',
             },
           ],

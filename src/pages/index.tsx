@@ -26,7 +26,7 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="/docs/another-page"
             style={{ marginLeft: '10px' }}>
-            Experimente agora! - 🤳
+            Aprenda agora! - 🤳
           </Link>
         </div>
       </div>

@@ -16,78 +16,68 @@ Detalhamento das principais tecnologias:
 
 ### 3. Recursos do Projeto
 Acessível via navegação lateral:
-- Objetivos do projeto
-- Diagramas de classe
-- Requisitos funcionais/não-funcionais
-- Protótipos (Figma)
+- [Objetivos do projeto](docs/tutorial-basics/objectives.md)
+- [Diagramas de classe](docs/tutorial-basics/diagram-class.md)
+- [Diagramas de sequência](docs/tutorial-basics/sequence-diagram.md)
+- [Diagramas de atividade](docs/tutorial-basics/activity-diagram.md)
+- [Diagramas de caso de uso](docs/tutorial-basics/use-case-diagram.md)
+- [Requisitos funcionais/não-funcionais](docs/tutorial-basics/requirements.md)
+- [Protótipos (Figma)](docs/tutorial-basics/markdown-features.mdx)
 
 ### 4. Como Contribuir
 Localizado em "Como contribuir com o projeto?":
-- Formulários de feedback
-- Instruções para testes
-- Como reportar problemas
+- [Formulários de feedback](docs/tutorial-extras/translate-your-site.md)
+- [Instruções para testes](docs/tutorial-extras/manage-docs-versions.md)
+- [Como reportar problemas](docs/tutorial-extras/manage-docs-versions.md)
 
 ## Elementos de Navegação
 
 ### Barra Superior
 - Link para documentação
-- Link para repositório GitHub
+- Link para [repositório GitHub](https://github.com/CristianoFIlho/math-pow)
 
 ### Barra Lateral
 - Organização hierárquica com seções:
   - Documentação
-  - Informações técnicas
-  - Diretrizes de contribuição
+  - [Informações técnicas](docs/tutorial-basics/tecnology.md)
+  - [Diretrizes de contribuição](docs/tutorial-extras/_category_.json)
 
 ### Elementos Interativos
 - Visualização de protótipos
 - Formulários de feedback
-- Links para download
 
-### Rodapé
-- Recursos adicionais
-- Links da comunidade
-- Informações de copyright
+## Como Executar esse Projeto
 
+Este site é construído usando [Docusaurus](https://docusaurus.io/), um gerador moderno de sites estáticos.
 
-# Como executar esse Projeto
+### Instalação de dependências
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
-
-### Installation
-
-```
-$ yarn
+```sh
+yarn install
 ```
 
-### Local Development
+### Desenvolvimento local
 
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
+```sh
+yarn start
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+### Build do projeto
 
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
+```sh
+yarn build
 ```
 
-Not using SSH:
+### Deploy do projeto
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
+```sh
+yarn deploy
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+## Sem usar SSH
+  
+  ```sh
+  GIT_USER=<Seu nome de usuário do GitHub> yarn deploy
+  ```
+
+

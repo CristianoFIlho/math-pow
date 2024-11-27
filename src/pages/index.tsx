@@ -24,7 +24,7 @@ function HomepageHeader() {
           </Link>
                    <Link
             className="button button--secondary button--lg"
-            to="/docs/intro"
+            to="https://drive.google.com/file/d/1nad3fcfPs3KKM7xrBoaDy9_3KXoFEhXV/view?usp=sharing"
             style={{ marginLeft: '10px' }}>
             Aprenda agora! - 🤳
           </Link>

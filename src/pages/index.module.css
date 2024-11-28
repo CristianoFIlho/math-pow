@@ -30,3 +30,12 @@
     margin: 0.5rem 0;
   }
 }
+
+
+.videoContainer {
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem 0;
+}

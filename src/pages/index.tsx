@@ -22,12 +22,23 @@ function HomepageHeader() {
             to="/docs/intro">
             Clique e saiba mais! - 🐙
           </Link>
-                   <Link
+          <Link
             className="button button--secondary button--lg"
             to="https://drive.google.com/file/d/1nad3fcfPs3KKM7xrBoaDy9_3KXoFEhXV/view?usp=sharing"
             style={{ marginLeft: '10px' }}>
             Aprenda agora! - 🤳
           </Link>
+        </div>
+        <div className={styles.videoContainer}>
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/P5zLlabDwLM"
+            title="YouTube video player"
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+          ></iframe>
         </div>
       </div>
     </header>

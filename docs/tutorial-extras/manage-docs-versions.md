@@ -4,44 +4,19 @@ sidebar_position: 1
 
 # Ajude respondendo os nossos formulários: 📊
 
-### Como Participar dos Testes da Aplicação com Crianças
+### Formulário para professores do ensino fundamental I:
 
-### Para Pais e Professores
+<div style={{ display: 'flex', justifyContent: 'center', margin: '2rem 0' }}>
+    <iframe 
+        src="https://docs.google.com/forms/d/e/1FAIpQLSdAeTBHvrUtN5z-yrOqQIcqiJds_kJT9nDhNyEN44OjiNatrg/viewform?embedded=true" 
+        width="640" 
+        height="2186" 
+        frameBorder="0" 
+        marginHeight="0" 
+        marginWidth="0">
+        Carregando…
+    </iframe>
+</div>
 
-1. **Acesse Nossa Pesquisa**:
-    - Visite o link do formulário de teste
-    - Use suas credenciais escolares ou pessoais para acessar
-    
-2. **Prepare o Ambiente de Teste**:
-    - Escolha um momento tranquilo do dia
-    - Garanta que a criança esteja disposta a participar
-    - Tenha um dispositivo com internet disponível
+Agradecemos sua participação! 🙏
 
-3. **Durante o Teste**:
-    - Acompanhe a criança durante a utilização
-    - Observe suas reações e dificuldades
-    - Faça anotações sobre pontos importantes
-    - Não interfira nas escolhas da criança
-
-4. **Compartilhe os Resultados**:
-    - Preencha o formulário de feedback
-    - Inclua suas observações detalhadas
-    - Compartilhe sugestões de melhorias
-    - Relate qualquer dificuldade encontrada
-
-### Reportar Problemas ou Sugestões
-
-1. **Acesse Nossa Página de Feedback**:
-    - Use o link fornecido pela escola/instituição
-    
-2. **Envie Seu Relato**:
-    - Descreva em detalhes a experiência
-    - Adicione fotos ou vídeos, se autorizado
-    - Sugira melhorias baseadas na experiência
-
-3. **Participe da Comunidade**:
-    - Entre em nosso grupo de testadores
-    - Compartilhe experiências com outros pais/professores
-    - Acompanhe as atualizações do projeto
-
-Sua participação é fundamental para melhorarmos a experiência das crianças com nossa aplicação! aplicação.

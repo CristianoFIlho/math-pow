@@ -84,6 +84,10 @@ const config: Config = {
           title: 'Doocumentação',
           items: [
             {
+              label: 'Prototipagem',
+              href: 'https://www.figma.com/design/zutwlOUAlBJXTnOE4aFzfZ/MATH.POW-(Copy)?node-id=0-1&t=cNuxYjgBlKQRtOAA-1',
+            },
+                        {
               label: 'Sobre o Projeto',
               to: '/docs/intro',
             },

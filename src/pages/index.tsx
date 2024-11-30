@@ -24,7 +24,7 @@ function HomepageHeader() {
           </Link>
           <Link
             className="button button--secondary button--lg"
-            to="https://drive.google.com/file/d/1nad3fcfPs3KKM7xrBoaDy9_3KXoFEhXV/view?usp=sharing"
+            to="https://github.com/CristianoFIlho/math-pow/releases/download/v1.0.0/math_pow.apk"
             style={{ marginLeft: '10px' }}>
             Aprenda agora! - 🤳
           </Link>

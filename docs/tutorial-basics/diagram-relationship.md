@@ -20,7 +20,8 @@ Elementos principais:
 - Atributo Derivado: elipse tracejada
 - Relacionamento Identificador: losango com borda dupla
 
-![Entidade de Relacionamento Math Pow](https://github.com/user-attachments/assets/c953d2c9-f6a7-4ca1-aad5-1a4f2e827ac6)
+![Entidade Relacionamento Math.Pow](https://github.com/user-attachments/assets/6158d98a-6ef7-424c-b8f7-8c3a608f9f7a)
+
 
 
 
